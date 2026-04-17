@@ -20,7 +20,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 2
-    date: Sept 12
+    date: Oct 12
     topic: Linear Regression
     description: Introduction to linear regression, gradient descent, and model evaluation.
     materials:
