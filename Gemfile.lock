@@ -80,6 +80,7 @@ GEM
     ffi (1.17.3-arm-linux-gnu)
     ffi (1.17.3-arm-linux-musl)
     ffi (1.17.3-arm64-darwin)
+    ffi (1.17.3-x64-mingw-ucrt)
     ffi (1.17.3-x86_64-darwin)
     ffi (1.17.3-x86_64-linux-gnu)
     ffi (1.17.3-x86_64-linux-musl)
@@ -225,6 +226,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.19.0-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.19.0-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.19.0-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.19.0-x86_64-linux-gnu)
@@ -259,6 +262,8 @@ GEM
       google-protobuf (~> 4.31)
     sass-embedded (1.97.2-arm64-darwin)
       google-protobuf (~> 4.31)
+    sass-embedded (1.97.2-x64-mingw-ucrt)
+      google-protobuf (~> 4.31)
     sass-embedded (1.97.2-x86_64-darwin)
       google-protobuf (~> 4.31)
     sass-embedded (1.97.2-x86_64-linux-gnu)
@@ -280,6 +285,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.6.0)
     uri (1.1.1)
+    wdm (0.2.0)
     webrick (1.9.2)
 
 PLATFORMS
@@ -291,6 +297,7 @@ PLATFORMS
   arm-linux-musl
   arm-linux-musleabihf
   arm64-darwin
+  x64-mingw-ucrt
   x86_64-darwin
   x86_64-linux
   x86_64-linux-gnu
@@ -324,6 +331,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
   4.0.4
