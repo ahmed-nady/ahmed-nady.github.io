@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
@@ -391,15 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-context-matters-peer-aware-student-behavioral-engagement-measurement-via-vlm-action-parsing-and-llm-sequence-classification-is-accepted-to-cvprw-2026",
+            },},{id: "news-our-paper-context-matters-peer-aware-student-behavioral-engagement-measurement-via-vlm-action-parsing-and-llm-sequence-classification-is-accepted-to-cvprw-2026",
           title: 'Our paper, “Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing...',
           description: "",
           section: "News",},{id: "projects-project-1",
