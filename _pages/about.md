@@ -24,11 +24,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
  
 ---
-Hello, I am a PhD candidate in Electrical and Computer Engineering at the University of Louisville, specializing in Computer Vision and Machine Learning. My work focuses on video understanding, human action recognition, and multimodal analysis, with applications in sports analytics, intelligent visual surveillance, and student engagement measurement.
+Hello, I am a PhD candidate in Electrical and Computer Engineering at the University of Louisville, specializing in Computer Vision and Machine Learning. My work focuses on video understanding, including human action recognition, sports video analytics, intelligent visual surveillance, and student engagement measurement.
 
  
 
-My research has been published in peer-reviewed journals such as Neurocomputing and Pattern Recognition Letters and presented at conferences, including CVPR Workshops (CVPRW) and VISAPP. My technical experience includes building software in Java and .NET for intelligent transportation systems, developing C/C++ solutions for medical image processing, and developing Python solutions for sports player performance analysis. I am interested in applying Computer Vision and Machine Learning to solve real-world problems.
+My research has been published in peer-reviewed renowned journals such as Neurocomputing and Pattern Recognition Letters and presented at conferences, including CVPR Workshops (CVPRW) and VISAPP. My technical experience includes building software in Java and .NET for intelligent transportation systems, developing C/C++ solutions for medical image processing, and developing Python solutions for sports player performance analysis. I am interested in applying Computer Vision and Machine Learning to solve real-world problems.
 
 <!-- I am a PhD candidate in Electrical and Computer Engineering Department, University of Louisville. My area of interest is Computer Vision and Machine Learning, in particular, Sports Analysis, Video Understanding, and Intelligent Visual Surveillance. I am interested in applying Computer Vision and Machine Learning to solve real-world problems. I have authored multiple research papers on action recognition, engagement measurement, and sports analysis, which were published in renowned journals such as Neurocomputing and Pattern Recognition Letters, as well as presented at the CVPRW and VISAPP conferences. I also have experience in software engineering (Java, .Net/Intelligent Transportation System), C++/Medical Image Processing, and sports analysis. -->
  
