@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-06'
 papers:
   MidouUcAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -10,7 +10,7 @@ papers:
     title: Player Identification in Different Sports.
     year: '2021'
   MidouUcAAAAJ:LkGwnXOMwfcC:
-    citations: 13
+    citations: 14
     title: 'EPAM-Net: An efficient pose-driven attention-guided multimodal network for video action recognition'
     year: '2025'
   MidouUcAAAAJ:Se3iqnhoufwC:
