@@ -1,10 +1,18 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-24'
 papers:
+  MidouUcAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification'
+    year: '2026'
   MidouUcAAAAJ:2osOgNQ5qMEC:
     citations: 19
     title: Real-time abnormal event detection in crowded scenes
     year: '2018'
+  MidouUcAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: 'Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification'
+    year: '2026'
   MidouUcAAAAJ:IjCSPb-OGe4C:
     citations: 20
     title: Player Identification in Different Sports.
@@ -17,10 +25,6 @@ papers:
     citations: 10
     title: Measuring student behavioral engagement using histogram of actions
     year: '2024'
-  MidouUcAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: 'Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification'
-    year: '2026'
   MidouUcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: 'Automated Sports Player Identification: A Survey'
