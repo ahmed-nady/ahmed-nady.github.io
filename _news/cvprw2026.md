@@ -6,4 +6,4 @@ related_posts: false
 display: true
 ---
 
-Our paper, "Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification", is accepted to CVPRW 2026!
+Our paper, "Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification", is accepted to CVPR Workshop 2026!
