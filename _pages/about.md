@@ -24,8 +24,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
  
 ---
-Hello, I am a PhD candidate in Electrical and Computer Engineering at the University of Louisville, specializing in Computer Vision and Machine Learning. Experienced in object detection, multimodal action recognition, VLM/VLT/VLA models, and transformer-based architectures for 2D-to-3D multi-camera Bird’s Eye View (BEV) object detection.  
-My research has been published in peer-reviewed journals such as Neurocomputing and Pattern Recognition Letters and presented at conferences, including CVPR Workshops and VISAPP. Passionate about designing and optimizing deep learning models for physical AI, particularly autonomous driving.
+Hello, I am a PhD candidate in Electrical and Computer Engineering at the University of Louisville, specializing in Computer Vision and Machine Learning. Experienced in object detection, multimodal action recognition, VLM/VLT/VLA models, and transformer-based architectures for 2D-to-3D multi-camera Bird’s Eye View (BEV) object detection. Passionate about designing and optimizing deep learning models for physical AI, particularly autonomous driving.  
+
+My research has been published in peer-reviewed journals such as Neurocomputing and Pattern Recognition Letters and presented at conferences, including CVPR Workshops and VISAPP.
 <!-- My work focuses on video understanding, including human action recognition, sports video analytics, intelligent visual surveillance, and student engagement measurement.-->
 
  
