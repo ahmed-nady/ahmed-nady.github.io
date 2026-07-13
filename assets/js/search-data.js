@@ -398,7 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-context-matters-peer-aware-student-behavioral-engagement-measurement-via-vlm-action-parsing-and-llm-sequence-classification-is-accepted-to-cvprw-2026",
+            },},{id: "news-our-paper-context-matters-peer-aware-student-behavioral-engagement-measurement-via-vlm-action-parsing-and-llm-sequence-classification-is-accepted-to-cvpr-workshop-2026",
           title: 'Our paper, “Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing...',
           description: "",
           section: "News",},{id: "projects-sports-player-performance-analysis",
