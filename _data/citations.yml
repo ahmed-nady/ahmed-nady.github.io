@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-05'
 papers:
   MidouUcAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -22,6 +22,6 @@ papers:
     title: Measuring student behavioral engagement using histogram of actions
     year: '2024'
   MidouUcAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'Automated Sports Player Identification: A Survey'
-    year: Unknown Year
+    year: '2021'
