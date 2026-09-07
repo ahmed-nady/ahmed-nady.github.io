@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-07'
 papers:
   MidouUcAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -13,14 +13,14 @@ papers:
     citations: 18
     title: 'EPAM-Net: An efficient pose-driven attention-guided multimodal network for video action recognition'
     year: '2025'
-  MidouUcAAAAJ:MXK_kJrjxJIC:
-    citations: 0
-    title: 'Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification'
-    year: '2026'
   MidouUcAAAAJ:eQOLeE2rZwMC:
     citations: 16
     title: Measuring student behavioral engagement using histogram of actions
     year: '2024'
+  MidouUcAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification'
+    year: '2026'
   MidouUcAAAAJ:zYLM7Y9cAGgC:
     citations: 1
     title: 'Automated Sports Player Identification: A Survey'
